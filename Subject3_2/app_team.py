@@ -43,7 +43,7 @@ team_data = {
             "gender": "남",
             "language": "Java",
             "email": "lsh2222@dgu.ac.kr",
-            "phone": "010-0000-2222",
+            "phone": "010-0000-9999",
             "photo": "images/member3.jpg"
         }
     ]
